@@ -84,4 +84,8 @@ When results are returned (when entering a search query), the results div will h
 
 YES!
 
+## License
+
+Please see LICENSE
+
 [term-highlight]: http://compleet.s3.amazonaws.com/term-highlight.png
