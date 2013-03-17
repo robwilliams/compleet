@@ -2,17 +2,17 @@
 
 Yet another jQuery autocomplete plugin. Highly inspired by Amazon's main search autocomplete.
 
-## Features
-
-Term Highlighting
-
 ![alt text][term-highlight]
 
-Result Caching (to reduce network load and response times)
+## Features
 
-Keyboard ```up``` ```down``` ```tab``` selection
+* Term Highlighting
 
-Mouse selection
+* Result Caching (to reduce network load and response times)
+
+* Keyboard ```up``` ```down``` ```tab``` selection
+
+* Mouse selection
 
 ## Usage
 
