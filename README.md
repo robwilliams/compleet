@@ -8,6 +8,12 @@ Term Highlighting
 
 ![alt text][term-highlight]
 
+Result Caching (to reduce network load and response times)
+
+Keyboard ```up``` ```down``` ```tab``` selection
+
+Mouse selection
+
 ## Usage
 
 ```javascript
@@ -73,5 +79,9 @@ When results are returned (when entering a search query), the results div will h
 </div>
 </div>
 ```
+
+### Are you going to write tests for this bad boy?
+
+YES!
 
 [term-highlight]: http://compleet.s3.amazonaws.com/term-highlight.png
