@@ -1,0 +1,39 @@
+.compleet-wrapper {
+  position: relative;
+
+}
+
+.compleet-wrapper .compleet { 
+  outline: none; 
+}
+
+.compleet-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  width: 95%;
+  display: none;
+}
+
+.compleet-results  p {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.compleet-results.compleet-active,
+.compleet-results p:hover {
+  background-color: #f5f5f5;
+}
+
+.compleet-has-results {
+  margin-top: -1px;
+  padding: 5px 0;
+  border: 1px solid #ccc;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: #fff;
+  display: block;
+}
