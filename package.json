@@ -1,0 +1,12 @@
+{
+  "name": "compleet",
+  "description": "Yet another jQuery autocomplete plugin. Highly inspired by Amazon's main search autocomplete.",
+  "version": "0.1.0",
+  "main": "./compleet",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "jsdom": "*",
+    "jquery": "*"
+  }
+}
